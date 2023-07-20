@@ -1,2 +1,2 @@
 # SQL
-SQL Queries for Autogeneration
+SQL Queries for Automating
